@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Siswa Modern",
+  "description": "Website portofolio modern, minimalis, dan responsif untuk menampilkan profil, keahlian, prestasi, dan proyek siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
